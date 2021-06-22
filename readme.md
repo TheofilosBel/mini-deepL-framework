@@ -1,3 +1,6 @@
+### Report
+For more information about the implementation details look into [report.pdf](report.pdf)
+
 ### Prerequisites
 For running the `test.py` file you need to use python 3.7 or higher
 
