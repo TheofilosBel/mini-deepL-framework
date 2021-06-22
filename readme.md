@@ -1,7 +1,7 @@
 ### Purpose
-This framework was created for as project for a course. 
-Course: `EE-559 Deep learning`
-University: `EPFL`
+This framework was created as project for a course. 
+
+Course: `EE-559 Deep learning`. University: `EPFL`
 
 ### Report
 For more information about the implementation details look into [report.pdf](report.pdf)
