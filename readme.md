@@ -4,7 +4,7 @@ This framework was created as project for a course.
 Course: `EE-559 Deep learning`. University: `EPFL`
 
 ### Report
-For more information about the implementation details look into [report.pdf](report.pdf)
+For more information about the implementation details look into [report](report.pdf)
 
 ### Prerequisites
 For running the `test.py` file you need to use python 3.7 or higher
